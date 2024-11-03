@@ -1,26 +1,44 @@
 {
   "project_info": {
-    "project_number": "531360581",
-    "project_id": "exitmatrix-16eb4",
-    "storage_bucket": "exitmatrix-16eb4.appspot.com"
+    "project_number": "979932703148",
+    "project_id": "exitmatrix-1f2ef",
+    "storage_bucket": "exitmatrix-1f2ef.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:531360581:android:c593363c44e9ffd18b2c2c",
+        "mobilesdk_app_id": "1:979932703148:android:f6ae3e1de108d63b7bb209",
         "android_client_info": {
-          "package_name": "com.example.exitmatrix"
+          "package_name": "com.example.exitmatrix_new"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "979932703148-4a553u197jggd6btl2vov1gi1th80dca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.exitmatrix_new",
+            "certificate_hash": "e88fbb6f986b7be8e0379abe9ecdaa514d6886c9"
+          }
+        },
+        {
+          "client_id": "979932703148-fdvnbsd9m70ufs7dsfuoimdfcvnlol2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
-          "current_key": "AIzaSyDWmzXIFwTgDbm236QEHWJIXYmiD_S8anU"
+          "current_key": "AIzaSyDPI5VgV-i5y8gBxs3hMGEF2J-P2JIQe3s"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979932703148-fdvnbsd9m70ufs7dsfuoimdfcvnlol2c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
